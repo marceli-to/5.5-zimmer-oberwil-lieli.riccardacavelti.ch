@@ -15,10 +15,9 @@
       <x-slideshow>
         <x-image isSlide="true" image="rc_oberwil-lieli-5.5-zimmer-01" width="1600" height="1067" alt="{{ __('Modernes 5.5-Zimmer-Duplex-Terrassenhaus in der steuergünstigsten Gemeinde des Kantons Aargau (Steuerfuss 48%) 8966 Oberwil-Lieli') }}" />
         <x-image isSlide="true" image="rc_oberwil-lieli-5.5-zimmer-02" width="1600" height="1067" alt="{{ __('Modernes 5.5-Zimmer-Duplex-Terrassenhaus in der steuergünstigsten Gemeinde des Kantons Aargau (Steuerfuss 48%) 8966 Oberwil-Lieli') }}" />
+        <x-image isSlide="true" image="rc_oberwil-lieli-5.5-zimmer-03" width="1600" height="1067" alt="{{ __('Modernes 5.5-Zimmer-Duplex-Terrassenhaus in der steuergünstigsten Gemeinde des Kantons Aargau (Steuerfuss 48%) 8966 Oberwil-Lieli') }}" />
         <x-image isSlide="true" image="rc_oberwil-lieli-5.5-zimmer-04" width="1600" height="1067" alt="{{ __('Modernes 5.5-Zimmer-Duplex-Terrassenhaus in der steuergünstigsten Gemeinde des Kantons Aargau (Steuerfuss 48%) 8966 Oberwil-Lieli') }}" />
         <x-image isSlide="true" image="rc_oberwil-lieli-5.5-zimmer-05" width="1600" height="1067" alt="{{ __('Modernes 5.5-Zimmer-Duplex-Terrassenhaus in der steuergünstigsten Gemeinde des Kantons Aargau (Steuerfuss 48%) 8966 Oberwil-Lieli') }}" />
-        <x-image isSlide="true" image="rc_oberwil-lieli-5.5-zimmer-06" width="1600" height="1067" alt="{{ __('Modernes 5.5-Zimmer-Duplex-Terrassenhaus in der steuergünstigsten Gemeinde des Kantons Aargau (Steuerfuss 48%) 8966 Oberwil-Lieli') }}" />
-        <x-image isSlide="true" image="rc_oberwil-lieli-5.5-zimmer-07" width="1600" height="1067" alt="{{ __('Modernes 5.5-Zimmer-Duplex-Terrassenhaus in der steuergünstigsten Gemeinde des Kantons Aargau (Steuerfuss 48%) 8966 Oberwil-Lieli') }}" />
       </x-slideshow>
     </article>
   </div>
@@ -30,11 +29,9 @@
         <h2>{{ __('content.heading-location') }}</h2>
         {!! __('<p>In ländlicher Umgebung über der Nebelgrenze nur 14 km (17 Autominuten) von der Stadtgrenze Zürich, 30 km von Zug und 26 km vom Flughafen Zürich entfernt, liege die idyllische Gemeinde Oberwil-Lieli. Eine Busstation vor dem Haus bringt sie mit Schnellbus ohne Halt in nur 20 Minuten nach Zürich Enge.</p><p>Am Anfang einer Sackgasse, an besonnter Lage, geniesst man traumhafte Sonnenuntergänge im grossen Garten mit viel Privatsphäre.</p><p>In der Nähe finden sich zahlreiche Freizeitmöglichkeiten: Fussball-, Handball-, Basketballplatz, Skateranlage, Beach-Volleyball-Platz sowie grosser Kletterturm mit Rutsche.</p><p>Die Primarschule und der Kindergarten liegen nur 230 Meter entfernt.</p><p>Das Lebensmittelgeschäft Volg sowie Biohöfe befinden sich in der näheren Umgebung.</p>') !!}
       </div>
-      <a href="/assets/media/rc_oberwil-lieli.mp4" data-fancybox="video">
-        <figure class="has-button">
-          <img src="/assets/media/rc_oberwil-lieli-preview.jpg" width="1600" height="1067" alt="{{ __('content.heading-location') }}" loading="lazy">
-        </figure>
-      </a>
+      <figure>
+        <img src="/assets/media/rc_oberwil-lieli-5.5-zimmer-00.jpg" width="1600" height="1067" alt="{{ __('content.heading-location') }}" loading="lazy">
+      </figure>
     </article>
 
     <article class="is-plans">
